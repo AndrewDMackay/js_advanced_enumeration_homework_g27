@@ -38,3 +38,4 @@ describe('PangramFinder', function () {
     assert.strictEqual(pangramFinder.isPangram(), false);
   });
 });
+

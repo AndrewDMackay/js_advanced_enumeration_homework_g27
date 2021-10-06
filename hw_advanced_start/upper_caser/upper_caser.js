@@ -15,3 +15,4 @@ UpperCaser.prototype.toUpperCase = function () {
 
 
 module.exports = UpperCaser;
+

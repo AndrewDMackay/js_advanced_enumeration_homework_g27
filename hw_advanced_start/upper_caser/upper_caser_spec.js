@@ -1,3 +1,4 @@
+
 const assert = require('assert');
 const UpperCaser = require('./upper_caser.js');
 
@@ -12,3 +13,4 @@ describe('UpperCaser', function () {
     assert.deepStrictEqual(upperCaser.toUpperCase(), ['I', 'AM', 'SHOUTING']);
   });
 });
+
